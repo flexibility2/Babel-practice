@@ -1,0 +1,19 @@
+{
+  "name": "Babel-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "@babel/cli": "^7.22.19",
+    "@babel/core": "^7.22.19",
+    "@babel/preset-env": "^7.22.19"
+  }
+}
