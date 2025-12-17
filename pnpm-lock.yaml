@@ -14,9 +14,18 @@ importers:
       '@babel/core':
         specifier: ^7.22.19
         version: 7.28.5
+      '@babel/generator':
+        specifier: ^7.22.19
+        version: 7.28.5
+      '@babel/parser':
+        specifier: ^7.22.19
+        version: 7.28.5
       '@babel/preset-env':
         specifier: ^7.22.19
         version: 7.28.5(@babel/core@7.28.5)
+      '@babel/traverse':
+        specifier: ^7.22.19
+        version: 7.28.5
 
 packages:
 
